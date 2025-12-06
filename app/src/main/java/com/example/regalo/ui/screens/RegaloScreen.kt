@@ -88,7 +88,7 @@ fun RegaloScreen(
             }
             if(!isWrapped){
                 Text(
-                    text = "🎄¡Feliz Navidad, Luis!🎁",
+                    text = "🎄¡Feliz Navidad!🎁",
                     style = MaterialTheme.typography.headlineSmall,
                     fontWeight = FontWeight.Bold,
                     color = Color.Green,
